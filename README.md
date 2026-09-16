@@ -157,6 +157,7 @@ The UCKG paper (~10,000 tokens) fits entirely within the model's 32K context win
 
 ## Resources
 
+- UCKG research paper: [Toward a Unified Cybersecurity Knowledge Graph](https://www.researchgate.net/publication/383380888_Toward_a_Unified_Cybersecurity_Knowledge_Graph_Leveraging_Ontologies_and_Open_Data_Sources)
 - Architecture decisions and rationale: [`docs/research.md`](docs/research.md)
 - Ollama install guide: [`docs/ollama_install_instruction.md`](docs/ollama_install_instruction.md)
 - Open WebUI docs: [docs.openwebui.com](https://docs.openwebui.com)
